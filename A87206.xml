@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Lord Deputy-General of Ireland, unto the Honorable William Lenthal Esq; Speaker of the Parliament of England; concerning the rendition of the city of Limerick: together with the articles formerly offered, and the articles upon which the same was surrendred: as also a particular of the persons excepted, the ammunition and ordnance in the town delivered upon the surrender of the said city. Friday the 28th of November, 1651. Ordered by the Parliament, that the letter from the Deputy-General of Ireland, and articles, together with the particulars inclosed, be forthwith printed and published; and read by the ministers on the day appointed for thanks to be given in the several congregations. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>Ireland. Lord Lieutenant (1650 : Ireton)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87206</idno>
+            <idno type="STC">Wing I1032</idno>
+            <idno type="STC">Thomason E647_9</idno>
+            <idno type="STC">ESTC R202610</idno>
+            <idno type="EEBO-CITATION">99862838</idno>
+            <idno type="PROQUEST">99862838</idno>
+            <idno type="VID">115016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115016)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E647[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Lord Deputy-General of Ireland, unto the Honorable William Lenthal Esq; Speaker of the Parliament of England; concerning the rendition of the city of Limerick: together with the articles formerly offered, and the articles upon which the same was surrendred: as also a particular of the persons excepted, the ammunition and ordnance in the town delivered upon the surrender of the said city. Friday the 28th of November, 1651. Ordered by the Parliament, that the letter from the Deputy-General of Ireland, and articles, together with the particulars inclosed, be forthwith printed and published; and read by the ministers on the day appointed for thanks to be given in the several congregations. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>Ireland. Lord Lieutenant (1650 : Ireton)</author>
+                  <author>Ireton, Henry, 1611-1651.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With the Parliament's order dated 28 Nov. 1651.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Limerick (Limerick, Ireland) --  History --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115016:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Lord Deputy-General OF IRELAND, Unto the Honorable <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker of the PARLIAMENT of ENGLAND; Concerning the Rendition of the City of LIMERICK: Together with the Articles formerly offered, and the Articles upon which the ſame was Surrendred: As alſo a Particular of the perſons excepted, the Ammunition and Ordnance in the Town deli<g ref="char:EOLhyphen"/>vered upon the Surrender of the ſaid CITY.</p>
+            <p>Friday the 28<hi rend="sup">th</hi> of November, 1651.</p>
+            <p>ORdered by the Parliament, That the Letter from the De<g ref="char:EOLhyphen"/>puty-General of <hi>Ireland,</hi> and Articles, together with the Particulars incloſed, be forthwith Printed and Publiſhed; and read by the Miniſters on the day appointed for Thanks to be given in the ſeveral Congregations.</p>
+            <p>
+               <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of ENGLAND, 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115016:2"/>
+            <pb n="3" facs="tcp:115016:2"/>
+            <head>For the moſt Honorable <hi>Willian Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker of the Parliament of the Com<g ref="char:EOLhyphen"/>monwealth of ENGLAND.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>IT was no ſmall Bleſſing in order to your Affairs here, nor without manifeſt appearances of the Power and Providence of God, That your Forces entruſted with me, got a Paſſage over the Ri<g ref="char:EOLhyphen"/>ver <hi>Shanon</hi> ſo early in the Summer; But that for the matter of it (to ſuch as neither ſaw nor can have a clear Relation of the maner and Circumſtances wherein God appeared) being rather but the making way for further progreſs in your Buſineſſes, then a thing of viſible effect in it ſelf, and nothing ſince then conſiderable having been effected by that part of your Forces with me, ſave the taking of ſome few ſmall Caſtles in <hi>Thomond,</hi> and poſſeſſing of others that were of advantage and conſequence for you, with Gariſons; and thoſe things of the like, or other na<g ref="char:EOLhyphen"/>ture, wherein God hath bleſt the reſt of your Forces and Parties in other Parts, having, I ſuppoſe, come to your knowledge more immediately from the ſeve<g ref="char:EOLhyphen"/>ral perſons commanding them. I have forborn to trouble you with any immediate account from my ſelf of what hath been done; But God, who having onely given ſome Teſtimonies of his continuing Fa<g ref="char:EOLhyphen"/>vor to your Cauſe, and preſence with your Servants
+<pb n="4" facs="tcp:115016:3"/>here in the beginning of this Summers Service (in the giving of ſuch a ſeaſonable and eaſie Paſſage to us over the <hi>Shanon</hi>) and therewith (in a few days more, the Poſſeſſion or Command of almoſt all the Paſſes over it, when before we had not any) hath ſince ſeen it good to deny us thus long any further conſiderable effect in any thing, and to exerciſe our Faith and Patience with divers ſmall Loſſes in the ſurprize of ſeveral ſmall Gariſons and Parties, by the lurching Enemy (mixt with the ſmaller Succeſſes he hath given to any of your Forces, having now vouch<g ref="char:EOLhyphen"/>ſafed to Crown the Summers Service in the cloſe of it, with giving into your hands a place of ſuch Strength, Value and Importance, as the City of <hi>Limerick,</hi> I thought it my duty hereby to give you an account of it, and preſent to your view the Con<g ref="char:EOLhyphen"/>ditions on which it is Surrendred to you, wherewith I thought it not amiſs to ſend alſo a Copy of the Conditions, which about the end of <hi>June</hi> and be<g ref="char:EOLhyphen"/>ginning of <hi>July</hi> laſt, were thought fit by advice of your Councel of War, here with me to be tendered to the Soldiery and people within (if they would have Surrendred then, but were rejected) by both which being compared together (as you will ſee them in in<g ref="char:EOLhyphen"/>cloſed Papers) you may finde how far God ſuffered them to be hardened then to their own loſs in the iſſue, and hath made their Obſtinacy then and ſince, ſerve to your greater advantage at laſt, not onely in point of Freedom for proſecution of Juſtice, one of the great Ends and beſt Grounds (before God and men) of the War you have maintained here; and in point of ſafety to Engliſh Planters, and the ſetling and ſe<g ref="char:EOLhyphen"/>curing
+<pb n="5" facs="tcp:115016:3"/>of the Commonwealths Intereſt in this Nati<g ref="char:EOLhyphen"/>on; but alſo in reſpect of valuable benefit to the State, which in the value of Arms and Ammunition, with ſome Goods of excepted perſons, and of the Houſes and Lands of the reſt by the firſt Conditions tendered, in great part to have been granted away, but by theſe at laſt reſerved clearly in your Power) may be ſome conſiderable Compenſation for your charge in the Four moneths longer Siege: For the length whereof, and detaining ſo great a part of your Forces from any other work conſiderable in all this Summer paſt, I can at this diſtance give onely this account at preſent, That it pleaſed God after that loſs he left us to in the attempt upon the Iſland (which had it ſucceeded, had given us an eaſie way and viſible advantage for a ſpeedy attempt of the City by way of Force, that hath ſince been fully provided againſt by their induſtrious working) not to incline the hearts of our Officers at any of the Councels of War held ſince for that purpoſe, to think a way of preſent force againſt the place adviſable, but onely to provide by way of Siege to ſtarve them, until of late (after we had largely provided both for ſecurity and ſubſiſt<g ref="char:EOLhyphen"/>ence of a ſufficient part of the Army (through Gods bleſſing) to have attended the Siege unto a far longer iſſue of extremity, finding the ſuppoſition of their ſudden falling into want (which was conceived would have been in two Moneths, or three at the moſt, and ſo have given us ſome competent ſeaſon for the work remaining) to fail us; and finding alſo ſome hopeful advantage for an attempt by way of Battery, at a place we had little obſerved before (God having as it
+<pb n="6" facs="tcp:115016:4"/>were till very lately hid the advantage of it from our eyes) we reſolved at laſt to try that way, whether it would pleaſe God (by the apprehenſions of preſent danger to them in the way of force, added to the foreſight of more certain extremity by Famine at laſt, though the other ſhould fail) ſo to work upon their hearts within, as might induce a preſent Surrender before extremity of Winter, and ſo ſave your ſickly Army from the hazards and hardſhips of a Winters Siege: And ſince this Reſolution taken, ſending to ſeveral places as ſpeedily as we could for ſome more Battering-Guns to recruit our Train (in lieu of thoſe ſo careleſly loſt at <hi>Clare,</hi> as I ſuppoſe you have heard) ſo ſoon as we had a number of them competent for ſuch a work, we began our Approaches in one night, and finiſhed our Batteries and planted our Guns the ſecond, and next morning began to Batter; where<g ref="char:EOLhyphen"/>upon they preſently ſent out to give us aſſurance they would accept our Conditions for the matter (which upon an overture of Treaty about three weeks ago we had tendred them, and about which they had ſent out Commiſsioners ſince from time to time, ſtill con<g ref="char:EOLhyphen"/>tinuing or renuing the Treaty, but with no effect; and that day ſending out Commiſſioners to us again in the evening, to have the Articles perfected in Circum<g ref="char:EOLhyphen"/>ſtances) we came to a concluſion upon them by the next morning; we cannot tell whether the danger of preſent Force, or foreſight of want did more incline them, but finde clearly that Diviſions and Diſtracti<g ref="char:EOLhyphen"/>ons within (which God alone had wrought amongſt them) were moſt prevalent towards the Surrender: There marched out at the Surrender about Twelve
+<pb n="7" facs="tcp:115016:4"/>or thirteen hundred Officers and Soldiers in pay (be<g ref="char:EOLhyphen"/>ing decreaſed in the Siege to that number, from a<g ref="char:EOLhyphen"/>bout Two thouſand by the beſt account we had) and we finde yet in the Town, I believe, no leſs then Four thouſand men able to bear Arms: It appears ſtill very Populous, though ſince we came laſt be<g ref="char:EOLhyphen"/>fore it, they have loſt, as they account to us, a<g ref="char:EOLhyphen"/>bove Five thouſand Souls, what through the Sword without, and the Famine and Plague within (the laſt whereof is ſtill violent amongſt them, to the great endangering your Soldiery here, if God by diſtinguiſhing mercy prevent not) and this way, as well as in the outſtanding of better Conditions from us, God hath rendred their Obſtinacy a ſcourge to themſelves, and made us in the way he ſaw it good to incline us to a means to keep them under his own more immediate and righteous Judgement. We have about Three thouſand five hundred Foot Arms already delivered up and brought into ſtores for your Service, and Eighty three Barrels of Powder, with ſome ſtore of other Ammunition, and ſome Piſtols and old Saddles, but no Horſes: We hope to finde yet more Arms and Ammunition, and in<g ref="char:EOLhyphen"/>tend ſpeedily to clear the place of a multitude of People that are moſt dangerous (either in Quality or Infection) and by degrees it may be rendred more Engliſh, as you or your Miniſters ſhall finde oppor<g ref="char:EOLhyphen"/>tunity of Planters, though there are now divers of the now Inhabitants (and ſome perſons of Quality amongſt them) whoſe carriage all along towards the Engliſh People and Intereſt, and particularly in this ſurrender, may deſerve your admittance to continue
+<pb n="8" facs="tcp:115016:5"/>here, and favorable dealing in point of their Eſtates. Of the perſons excepted from quarter there was one<g ref="char:EOLhyphen"/>ly the Governor and ten more, whoſe names are men<g ref="char:EOLhyphen"/>tioned in the incloſed note, that rendred themſelves at our mercy, none of which we have yet executed, nor are yet well reſolved how to deal with them, though I ſuppoſe we ſhall ſee cauſe to execute ſome of them in a Military way, in relation to the holding out of the place, and for terrors to others; and there are others of them fit to be reſerved for examples of Juſtice in a Judicial way, in relation to the firſt Re<g ref="char:EOLhyphen"/>bellion and Murthers: But it hath pleaſed God ſince the ſurrender, providentially to diſcover and deliver into our hands, three perſons of principal Activity and Influence in the obſtinate holding out (the laſt years Major, the Biſhop of <hi>Emley,</hi> and Major General <hi>Purcell;</hi> all whom we preſently hanged, and have ſet up their heads on the gates; the two latter being original Incendiaries of the Rebellion and Miſchiefs in it, or prime Engagers therein, and alſo one Captain <hi>Welſh</hi> a Prieſt, whom we have not yet executed, but I think ſhall. Now beſides the real importance and advantage of this place towards the further carrying on or ending the War, and the ſetling and ſecuring of your Intereſt in this Nation (if God ſee it good) it is not unhopeful that the terror and ſad example of it may ſo work upon other places remaining (through Gods bleſſing) as to haſten or facilitate the reduce<g ref="char:EOLhyphen"/>ment of them, as much as the long detaining us at this Siege hath retarded it, ſave that the winter ſea<g ref="char:EOLhyphen"/>ſon and difficulty of ſubſiſting now (for Horſe or men) in the Field, about their remaining Gariſons,
+<pb n="9" facs="tcp:115016:5"/>may give them ſo much breathing time, as to digeſt and forget this example; however, it was a Mercy moſt ſeaſonable, in relation to the preſent condition of your Men, and ſtate of your Affairs in this Land (as well as great in effect) that this place was now Sur<g ref="char:EOLhyphen"/>rendred to you on ſuch Terms; and God doth (by the extremity of Winter weather, ever ſince our Agreement, whereas he had till then, favored us with a more dry and gentle Seaſon then hath been ordinarily known before for ſo long time together, and ſo late in the year) make it appear more feel<g ref="char:EOLhyphen"/>ing to be ſo: And you (as we that ſerve you here) may accordingly adde it to the account of thoſe other great Bleſſings and Deliverances, and more glorious Workings of Gods good hand towards you this year in <hi>England</hi> and <hi>Scotland,</hi> which you have to acknowledge to the Praiſe of his Great Name, and improve to his further Honor and Ser<g ref="char:EOLhyphen"/>vice in the Advancement of Righteouſneſs and Truth in the Three Nations, and furthering the Ex<g ref="char:EOLhyphen"/>altation of all that is indeed the Intereſt of the Lord Jeſus Chriſt, who hath ſo graciouſly owned, and thus far Upheld and Eſtabliſhed yours. Now that you, and thoſe that ſerve and partake with you in theſe things, may be both intent to conſi<g ref="char:EOLhyphen"/>der and ſeek, and taught of him more and more what maner of perſons we ought to be, and what to do for his Name, and made (through his greater Grace) both really to be, and faithfully to do in ſome ſort more anſwerable to ſuch peculiar Fa<g ref="char:EOLhyphen"/>vors of his, and Experiences or Teſtimonies there<g ref="char:EOLhyphen"/>of towards us, and preſerved by him from the
+<pb n="10" facs="tcp:115016:6"/>many Snares and Temptations, attending ſuch Ad<g ref="char:EOLhyphen"/>vantages to ſuch corrupt Natures, is ſtill the hearts deſire and prayer of him, who hath been very little, and grows leſs able otherwiſe to ſerve you.</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt humble Servant,</hi> H: IRETON.</signed>
+               <dateline>
+                  <hi>Limerick,</hi> 
+                  <date>3. <hi>Novemb.</hi> 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="11" facs="tcp:115016:6"/>
+            <head>A Copy of Conditions tendred to the Gariſon and City of <hi>Limerick June</hi> 30. 1651. upon ſurrender thereof.</head>
+            <p n="1">1. AN Article for the ſurrender, &amp;c.</p>
+            <p n="2">2. That in conſideration of the ſurrender, &amp;c. all perſons whatſoever within the City and Gariſon of <hi>Limerick</hi> ſhall have quarter for their lives, and li<g ref="char:EOLhyphen"/>berty of their perſons, without pillage, plunder, or other Militery violence to their perſons or goods during their continuance under ſafe Conduct or Pro<g ref="char:EOLhyphen"/>tection, by vertue of the enſuing Articles reſpectively.</p>
+            <p n="3">3. That all Officers and Soldiers of the Forces in pay, and not belonging to the <hi>Militia</hi> of the City of <hi>Limerick,</hi> ſhall have liberty to march away to any Gariſon or Quarter of the Iriſh party with their Horſes, Arms, and other equipage ſuitable to the ſe<g ref="char:EOLhyphen"/>veral qualities they ſerve in reſpectively, Bag and Bag<g ref="char:EOLhyphen"/>gage, Drums beating, Colours flying, their Fire-arms loaden and primed, Bandeliers and Flaſques full of Powder, Matches lighted at both ends; and to have ſuch Carriage for their Goods as the County will af<g ref="char:EOLhyphen"/>ford provided for them (they paying reaſonable rates for the ſame) And ſhall be allowed  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  Moneths time for the removall of any goods to them duly be<g ref="char:EOLhyphen"/>longing which they leave behinde them, except Arms, Ammunition, or other furniture of War.</p>
+            <pb n="12" facs="tcp:115016:7"/>
+            <p n="4">4. That all other perſons of what quality ſoever now in the ſaid City, that deſire to march with them, ſhall have liberty ſo to do, with the ſame freedom, priviledge, time and benefit, for the carrying away of their Bag and Baggage, and removing of their goods (except Ammunition, and all Arms or other fur<g ref="char:EOLhyphen"/>niture of War, ſave travelling Arms, with which they ſhall be allowed to march) as is granted to the Soldiery in the laſt preceding Article.</p>
+            <p n="5">5. That any of the Officers, Soldiers, or others now in the City (except Clergy-men, and ſuch as were in Arms or otherwiſe in Hoſtility, which, or for thoſe that committed the murthers and outrages in the firſt Inſurrection before the firſt general Aſſembly, or that ſat in the ſaid firſt Aſſembly) if within  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  days they ſhall deſire to lay down Arms, and to ſubmit to the authority of the Parliament of <hi>England,</hi> ſhall be admitted ſo to do, and to live at their homes or with their friends, and ſhall have Protection in their per<g ref="char:EOLhyphen"/>ſons and eſtates on the ſame Terms as the reſt of the inhabitants of the Countrey of the ſame Conditious or Qualifications with themſelves.</p>
+            <p n="6">6. That all the Citizens or Inhabitants in the ſaid City that are Free-men or members of the Cor<g ref="char:EOLhyphen"/>poration, and were ſo before the firſt of <hi>October,</hi> One thouſand ſix hundred and fifty, and all the Widows and Children of them that were ſuch (with their fa<g ref="char:EOLhyphen"/>milies and ſervants) who ſhall be willing to live under the Government of the Common-wealth of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and ſubmit to Contribution proportionably with their neighbors (except ſuch as come within the ex<g ref="char:EOLhyphen"/>ception made in the laſt foregoing Article) ſhall freely
+<pb n="13" facs="tcp:115016:7"/>enjoy all their perſonal eſtates where ever the ſame be (except Arms, Ammunition and other furniture of War) to themſelves and their aſſigns (paying to the State of <hi>England</hi> one third part of the value of their perſonal Eſtates viſible within this Dominion, from ſuch onely as have perſonal Eſtates viſible with<g ref="char:EOLhyphen"/>in this Dominion, from ſuch onely as have perſonal Eſtates to the value of one hundred pounds and up<g ref="char:EOLhyphen"/>wards, but the reſt to enjoy the whole freely; and ſhall likewiſe enjoy two third parts of their Eſtates real (lying without the City of <hi>Limerick</hi> and Liber<g ref="char:EOLhyphen"/>ties thereof) or the full value of the ſame to them<g ref="char:EOLhyphen"/>ſelves, their Heirs or Aſſigns; and ſhall alſo enjoy their reſpective Intereſts in their Houſes in the City, except ſuch of them as ſhall be thought fit to be re<g ref="char:EOLhyphen"/>moved out of the Gariſon, in order to the ſecuring thereof, who ſhall have liberty to ſet or ſell their ſaid Houſes to the beſt advantage of themſelves, their Heirs or Aſſigns, paying (in caſe of ſale) a third part of the price they make, to the uſe of the State of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and ſhall have moneths time (after warn<g ref="char:EOLhyphen"/>ing given them to depart) for removal and diſpoſing of themſelves, their families and goods as they pleaſe, and Protection to live in any part of this Dominion within the Power of the Parliament of <hi>England</hi> (not being a Gariſon, or a Countrey planted intirely with Engliſh, or ſet apart to be ſo) or ſhall have Paſſes to remove to any Foreign parts if they ſo deſire. And thoſe of the ſaid Citizens (not within the aforeſaid Exception) who ſhall ſubmit upon theſe Terms, and perform the ſame on their parts, ſhall have Indempni<g ref="char:EOLhyphen"/>ty for any things done in proſecution of the War.</p>
+         </div>
+         <div type="response">
+            <pb n="14" facs="tcp:115016:8"/>
+            <head>An Anſwer of the Commiſsioners of the Engliſh Army to the particular Exceptions of the Commiſ<g ref="char:EOLhyphen"/>ſioners for the City of <hi>Limerick,</hi> againſt the Con<g ref="char:EOLhyphen"/>ditions tendred upon the Treaty in <hi>June</hi> and <hi>July,</hi> One thouſand ſix hundred fifty one.</head>
+            <p n="1">1. TO the firſt Exception, we ſhall allow a <hi>proviſo</hi> for the Citizens as follows; Provided, and and it is hereby declared concerning all and every the ſaid Citizens, That they or any of their being in<g ref="char:EOLhyphen"/>gaged in Arms in the beſieging and reducing of the Caſtle of <hi>Limerick,</hi> after the coming in of the Iriſh Forces under General <hi>Barry</hi> into the Town (though it was before the ſaid firſt general Aſſembly) ſhall not conclude or be underſtood to conclude them or any of them within the Exception afore going, ex<g ref="char:EOLhyphen"/>cept ſuch of them as ſhall appear by ſufficient evi<g ref="char:EOLhyphen"/>dence to have contrived, procured, endevored, or wittingly furthered the letting in of the Iriſh Forces into the Town, or to have been otherwiſe guilty (as parties or immediate acceſſaries) to ſome particular murther of the Engliſh or Proteſtant people before the ſaid firſt general Aſſembly.</p>
+            <p>And as to the Soldiery, Nobility and Gentry now in the City, we are content that they be admitted to live in Protection, they ſubmitting themſelves and their Eſtates to the judgement of the Parliament of <hi>England,</hi> although they were in Arms during the firſt year of the War.</p>
+            <p n="2">2. To the ſecond, We cannot allow any Ordnance or other furniture of War, but what is granted by
+<pb n="15" facs="tcp:115016:8"/>our Articles, onely we are content that all Ships be<g ref="char:EOLhyphen"/>longing to any private perſons remain to the diſpoſal of the owners.</p>
+            <p n="3">3. To the third, We ſhall not grant any power to leavy Arrears in our Quarters as to the Run<g ref="char:EOLhyphen"/>aways, and hertofore Protected perſons, although they be not mentioned expreſly, yet it is intended the Quarter ſhould extend to them, we are willing to prefix a time, and grant an Indempnity from Suits during the time mentioned in the Exception.</p>
+            <p n="4">4. To the fourth, We ſhall be willing to allow all the Protected perſons Horſes and travelling Arms as we do to other Protected people, as to perſons for<g ref="char:EOLhyphen"/>merly Protected and not within the reach of the Ex<g ref="char:EOLhyphen"/>ception, paying the Arrears of their Contribution due to the Parliaments party, they ſhall be received into Protection as formerly. To the reſt, we adhere to our Articles.</p>
+            <p n="5">5. To the fifth, We ſhall not treat concerning Religion.</p>
+            <p n="6">6. To the ſixth, We ſhall adhere to our Article, unleſs they be willing to wave their Indempnity from private Suits.</p>
+            <p n="7">7. To the ſeventh, We muſt adhere to our Propoſal.</p>
+            <p n="8">8. To the eighth, We ſhall adhere to our Pro<g ref="char:EOLhyphen"/>poſition.</p>
+            <p n="9">9. To the ninth, It is intended that all ſuch of the Citizens as are by theſe Articles allowed to enjoy their Eſtates real and perſonal, ſhould have full liber<g ref="char:EOLhyphen"/>ty to ſell and diſpoſe the ſaid Eſtates to their beſt advantage and liberty, with their Wives, Families and
+<pb n="16" facs="tcp:115016:9"/>Goods to paſs beyond the Seas when they ſhall think good.</p>
+            <p n="10">10. The tenth, We ſhall not Treat upon.</p>
+            <p n="11">11. To the eleventh, It is intended that all ſuch of the Citizens as are not within the Exception, ſhall have full liberty to trade at home and abroad as other Engliſh Subjects.</p>
+            <p n="12">12. To the twelfth, The <hi>proviſo</hi> of our Propoſi<g ref="char:EOLhyphen"/>tion enjoyns no ſale of any part of their Eſtates in the City.</p>
+            <p n="13">13. To the thirteenth, It is intended they ſhould enjoy all their real Eſtates in any Corporation or place of this Dominion, except Gariſons.</p>
+            <p>The names of the Commiſſioners in behalf of the Parliaments Army, Lieutenant General <hi>Edmund Ludlow,</hi> Adjutant General <hi>William Allen,</hi> Judge Advocate <hi>Philip Cartret,</hi> Major <hi>Anthony Morgan,</hi> Major <hi>Brian Smith.</hi>
+            </p>
+         </div>
+         <div type="articles">
+            <pb n="17" facs="tcp:115016:9"/>
+            <head>Articles agreed upon the twenty ſeventh day of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> One thouſand ſix hundred fifty one, by and be<g ref="char:EOLhyphen"/>tween <hi>Henry Ireton</hi> Eſquire, Deputy General of <hi>Ireland</hi> on the one part, and <hi>Bartholomew Stack<g ref="char:EOLhyphen"/>poll</hi> Recorder of the City of Limerick, or <hi>Dominick White</hi> Alderman of the ſame, <hi>Nicholas Haley</hi> Eſ<g ref="char:EOLhyphen"/>quire, Lieutenant Colonel <hi>Piers Lacy,</hi> Lieutenant Colonel <hi>Donogh O-Brien,</hi> and <hi>John Baggot</hi> Eſ<g ref="char:EOLhyphen"/>quire, Commiſsioners appointed by and on the be<g ref="char:EOLhyphen"/>half of the Governor and Major of the ſaid City, to Treat and Conclude for the ſurrender thereof on the other part.</head>
+            <p n="1">1. THat the City of Limerick, with the Caſtle, and all places of ſtrength in the City be ſurrendred into the hands of the ſaid Deputy General of <hi>Ireland,</hi> for the uſe of the Parliament and Common-wealth of <hi>England,</hi> upon, or before the twenty ninth day of <hi>October</hi> inſtant at noon, together with all the Ord<g ref="char:EOLhyphen"/>nance, Arms, Ammunition, and other furniture of War therein, and all the Goods of any kinde not allowed by the enſuing Articles to be carried away or kept by the owners, and this without waſte, ſpoil, or embezlement. And the full poſſeſſion of <hi>Johns</hi> Gate and Priors Mill ſhall be delivered unto the ſaid Deputy General or ſuch Guards as they ſhall appoint (not exceeding an hundred men for <hi>Johns</hi> Gate) this day by Sun-ſet; and for performance hereof, the above named Lieutenant Colonel <hi>Piers Lacy,</hi> Lieu<g ref="char:EOLhyphen"/>tenant Colonel <hi>Donogh O-Brien,</hi> Alderman <hi>Dominick White,</hi> and <hi>Nicholas Haley</hi> Eſquire, ſhall remain as
+<pb n="18" facs="tcp:115016:10"/>Hoſtages with the ſaid Deputy-General, until the Surrender of the ſaid City.</p>
+            <p n="2">2. That in conſideration thereof, all perſons now in the City (except ſuch as are hereafter excepted) ſhall have Quarter for their Lives, liberty of their perſons, their Cloathes, Money, and other Goods, ſo as to be free from Pillage, Plunder, or other hoſtile violence in their Perſons or Goods during their con<g ref="char:EOLhyphen"/>tinuance under the ſaid Deputies ſafe Conduct or Protection, by vertue of the enſuing Articles re<g ref="char:EOLhyphen"/>ſpectively: But whereas through the practices of ſome perſons more eminent and active then the reſt, both amongſt the Clergy, Military-Officers, the Citizens, and other ſorts of men within the large Conditions formerly tendred for Surrender, have been rejected. The ſubſequent occaſions or opportunies for timely making of Conditions neglected and avoided, the diſ<g ref="char:EOLhyphen"/>poſitions and deſires of many perſons within to that purpoſe, is oppoſed, reſiſted and reſtrained, and the generality of the people partly deluded and deceived (to the keeping of them in vain expectations of relief from one time to another) and partly over-awed, or enforced by their power to concur and contribute this long to the obſtinate holding out of the place; there<g ref="char:EOLhyphen"/>fore the perſons hereafter named, <hi>viz.</hi> Major Gene<g ref="char:EOLhyphen"/>ral <hi>Hay Oniel</hi> the Governor, Major General <hi>Purcel,</hi> Sir <hi>Jeffry Galway,</hi> Lieutenant Colonel <hi>Lacy,</hi> Captain <hi>George Wolf,</hi> Captain Lieutenant <hi>Sexton,</hi> the Biſhop of <hi>Limerick,</hi> the Biſhop of <hi>Emley, John Quillin</hi> a Dominican Friar, <hi>David Roch</hi> a Dominican Friar, Captain <hi>Laurence Welſh</hi> a Prieſt, <hi>Francis Wolf</hi> a Fran<g ref="char:EOLhyphen"/>ciſcan Friar, <hi>Philip O Diepe</hi> Prieſt, Alderman <hi>Domi<g ref="char:EOLhyphen"/>nick
+<pb n="19" facs="tcp:115016:10"/>Fanning,</hi> Alderman <hi>Thomas Stretch,</hi> Alderman <hi>Jordan Roch, Edmund Roch</hi> Burgeſs, <hi>David Roche<g ref="char:EOLhyphen"/>ford</hi> Burgeſs, Sir <hi>Richard Everard,</hi> Docter <hi>Higgin Maurice Baggot</hi> of <hi>Baggotſtown,</hi> and <hi>Jeffry Barron</hi> (being as aforeſaid the Principals appearing in ſuch Practices in this Siege, and the holding out ſo long; as alſo <hi>Evan</hi> the Welch Soldier who ran into <hi>Lime<g ref="char:EOLhyphen"/>rick;</hi> and all other perſons that have been imployed, and come into the City as Spies ſince the Fourth day of <hi>June</hi> laſt, ſhall be excepted and excluded from any benefit of this Article, or any other Articles en<g ref="char:EOLhyphen"/>ſuing, and ſuch of them as can be found within the Garriſon, ſhall be rendred up at Mercy upon the Sur<g ref="char:EOLhyphen"/>render of the City: And any ſuch perſons as ſhall be found to hide or conceal any of the ſaid expected perſons, or be privy to their Concealment or attempt of Eſcape, and not diſcover, and do their beſt endea<g ref="char:EOLhyphen"/>vor to prevent the ſame, ſhall thereby be underſtood to have forfeited the benefit of theſe Articles to themſelves; but otherwiſe, none ſhall loſe that bene<g ref="char:EOLhyphen"/>fit for other mens default in their Concealment or eſcape, or for the not rendring of them up as aforeſaid.</p>
+            <p n="3">3. That all Officers, Soldiers and other perſons now in the City (not excepted in the laſt precedent Ar<g ref="char:EOLhyphen"/>ticle) ſhall alſo have liberty to march away with their Cloathes, Bag and Baggage, Money, and all other their Goods of what kinde ſoever, except Arms, Am<g ref="char:EOLhyphen"/>munition, and other Utenſils of War (carrying no<g ref="char:EOLhyphen"/>thing but their own) to what place or places they ſhall chooſe reſpectively within the Dominion of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> not being a Gariſon for the Parliament (all the Field-Officers of Horſe and Foot, and Captains of
+<pb n="20" facs="tcp:115016:11"/>Horſe, with their Horſes, Piſtols and Swords, and other the Commiſſioned Officers with their Swords onely) And ſhall have Three Moneths time after the Surrender to remove any Goods of their own, that they ſhall not think fit ſooner to carry with them; and ſuch of them as ſhall chooſe to go to any Gariſons, or Parties of the Enemy, ſhall have Convoy or ſafe con<g ref="char:EOLhyphen"/>duct for that purpoſe, for ſuch time as ſhall be requi<g ref="char:EOLhyphen"/>ſite for their march, at the rate of Ten miles a day, and ſhall have Cariages and proviſion allowed from the Countrey at the uſual rates.</p>
+            <p n="4">4. That ſuch of the Citizens and Inhabitants in<g ref="char:EOLhyphen"/>tereſted in the City, as are not excepted in the ſecond Article, and ſhall not preſently march away as afore<g ref="char:EOLhyphen"/>ſaid, but deſire to continue longer in the City, ſhall (upon application for that purpoſe to the ſaid Deputy Generall, or the chief Officer commanding in <hi>Lime<g ref="char:EOLhyphen"/>rick</hi> after the Surrender) have Licenſe given them to ſtay, either for ſuch further time as the ſaid Deputy General, or the ſaid chief Officer preſent ſhall finde convenient, or until further warning given them to depart; and in caſe of ſuch Licenſe given till further warning, ſhall have Four moneths time allowed from and after ſuch warning, for the removal of themſelves and their Families, and Six moneths for the removal of their Goods, and during ſuch further time limited, or in caſe of reference to further warning, during their continuance there to the time of warning given; and for the ſaid Four moneths and Six moneths after re<g ref="char:EOLhyphen"/>ſpectively, ſhall be protected in their Families and Goods from all Injury and Violence, and at any time as they ſhall deſire within the ſaid ſpace or ſpaces
+<pb n="21" facs="tcp:115016:11"/>reſpectively ſhall have liberty and ſafe conduct for the removal of themſelves, their Families and Goods, to any place or places within this Dominion, not being gariſoned for the Parliament as aforeſaid; and if they ſhall not be admitted to reſide elſwhere in protection within this Dominion, they ſhall have liberty, for themſelves, their Wives, Children and Goods, to paſs beyond the Seas; Provided that they pay their due proportion of what Taxes and other Contribution ſhall be charged upon the City, from the day of the Surrender to the day of the removal, in due propor<g ref="char:EOLhyphen"/>tion with other places in <hi>Ireland,</hi> and behave them<g ref="char:EOLhyphen"/>ſelves as becometh: And ſuch of the ſaid Citizens and Inhabitants as having not Licenſe to ſtay until further warning, ſhall within a moneth after the Sur<g ref="char:EOLhyphen"/>render be ordered to depart, ſhall have the ſame bene<g ref="char:EOLhyphen"/>fit of the Third Article, as thoſe that march away im<g ref="char:EOLhyphen"/>mediately upon the Surrender.</p>
+            <p n="5">5. That all ſuch perſons now in the City, as ſhall deſire to live peaceably under protection, and ſubmit to the Parliament of <hi>England</hi> (except the perſons ex<g ref="char:EOLhyphen"/>cepted in the ſecond Article aforegoing, and except all Clergy-men, Prieſts and Friars of any Order) ſhall upon their application to that purpoſe, have Licenſe and protection to live quietly at any ſuch place or places within this Dominion as they ſhall deſire, and the ſaid Deputy General finde convenient to admit; but ſuch Protection ſhall not be under<g ref="char:EOLhyphen"/>ſtood to extend either to the aſſuring of them in the enjoyment of their Lands or other Heredita<g ref="char:EOLhyphen"/>ments; or to the granting of other Indempnity or Freedom from any Queſtion or Proſecution to Ju<g ref="char:EOLhyphen"/>ſtice
+<pb n="22" facs="tcp:115016:12"/>in a Judicial way, for any Crimes they may be guilty of, except to ſuch perſons as ſhall be found fit to have that Mercy and Favor expreſly granted to them, or to others for a certain time to be limited for that purpoſe; but to ſuch as ſhall have protection for a limited time, either Citizens or others, it is intend<g ref="char:EOLhyphen"/>ed they ſhall be freed from any Suit or Cenſure in the Civil Judicature for things done in relation to the War during the time limited.</p>
+            <p>
+               <hi>Memorandum,</hi> As to the fourth Article aforegoing, it is intended, That the Citizens (not excepted a<g ref="char:EOLhyphen"/>gainſt within a Moneth) may tatry (without particu<g ref="char:EOLhyphen"/>lar Application) and have Four Moneths after warn<g ref="char:EOLhyphen"/>ing given to remove themſelves and Families, and ſix Moneths to carry away their Goods.</p>
+            <p>
+               <hi>Memorandum,</hi> Alſo that all Soldiers or other per<g ref="char:EOLhyphen"/>ſons, not excepted in the third Article, who through Sickneſs are diſabled to remove themſelves at preſent, ſhall have liberty to march away when they ſhall re<g ref="char:EOLhyphen"/>cover, and have equal benefit with others in their Conditions reſpectively; And that from twelve of the Clock this day, there ſhall be Ceſſation of all acts of Hoſtility on either part, but the perſons Be<g ref="char:EOLhyphen"/>ſieged not to come without the Walls or Iſland, ſaving into <hi>Johns</hi> Gate, until the time limited for Surrender, without Licenſe from the other part re<g ref="char:EOLhyphen"/>ſpectively.</p>
+            <p>And laſtly it is agreed, That no perſon ſhall be un<g ref="char:EOLhyphen"/>derſtood to forfeit the benefit of any the Articles for another mans Breach thereof, unleſs he be found to be conſenting thereto, or privy to it, without diſcovering or endeavoring to prevent it, provided this extend not
+<pb n="23" facs="tcp:115016:12"/>to Indempnifie the Hoſtages in caſe of failer of Sur<g ref="char:EOLhyphen"/>render. In Teſtimony whereof, the parties firſt above mentioned have Interchangeably ſet to their Hands and Seals the day and year firſt above written.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Bar: Flacpol,</hi>
+                     </item>
+                     <item>
+                        <hi>Hen: O Bryan.</hi>
+                     </item>
+                     <item>
+                        <hi>Domi: White.</hi>
+                     </item>
+                     <item>
+                        <hi>Pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſ: Lacy.</hi>
+                     </item>
+                     <item>
+                        <hi>Nic: Haly.</hi>
+                     </item>
+                     <item>
+                        <hi>John Bagot.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="enclosed_list">
+            <list>
+               <head>The Names of thoſe excepted perſons that rendred them<g ref="char:EOLhyphen"/>ſelves up at mercy at the Surrender of <hi>Limerick,</hi> 29 <hi>Oct. b.</hi> One thouſand ſix hundred fifty one.</head>
+               <item>Major Gen: <hi>Hugo O Neil.</hi>
+               </item>
+               <item>Sir <hi>Jeffry Gallway.</hi>
+               </item>
+               <item>Sir <hi>Richard Everard.</hi>
+               </item>
+               <item>Mr. <hi>Jordan Roch</hi> Alderman.</item>
+               <item>Mr. <hi>Jeffry Barron.</hi>
+               </item>
+               <item>
+                  <hi>Major Maurice Baggot.</hi>
+               </item>
+               <item>Doctor <hi>Daniel Higgin.</hi>
+               </item>
+               <item>
+                  <hi>Edmund Roch</hi> Burgeſs.</item>
+               <item>
+                  <hi>George Wolf</hi> Captain.</item>
+               <item>Lieutenant Coll <hi>Piers Lacy.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="enclosed_list">
+            <list>
+               <head>Theſe were taken ſince the reſt ſubmitted, and Executed.</head>
+               <item>The Biſhop of <hi>Emley.</hi>
+               </item>
+               <item>
+                  <hi>Major General Purcel.</hi>
+               </item>
+               <item>
+                  <hi>The late Major.</hi>
+               </item>
+               <item>
+                  <hi>Tho: Stretch.</hi>
+               </item>
+               <item>Captain <hi>Welſh</hi> Prieſt.</item>
+            </list>
+         </div>
+         <div type="enclosed_list">
+            <list>
+               <head>An Accompt of the Ammunition and Arms received from the Soldiers and Inhibitants of <hi>Limerick,</hi> 30 <hi>October</hi> 1651.</head>
+               <item>Barrels of Power 83</item>
+               <item>Barrels of mixt ſhot 23</item>
+               <item>Match three Tun and an half Fixed and fixable Muſquets 1654</item>
+               <item>Broken Muſquets and Muſquet Barrels 1610</item>
+               <item>Fowling Pieces, Firelocks and Carbines 215</item>
+               <item>Pikes 512</item>
+               <item>Half Pikes 30</item>
+               <item>Holberts 93</item>
+               <item>Brown Bills 27</item>
+               <item>Piſtols moſt unfixed 109</item>
+               <item>Collers of Bandeliers 246</item>
+               <item>Old Swords 140</item>
+               <item>Old Saddles 72</item>
+            </list>
+            <p>
+               <hi>Beſides round Shot, Backs, Breſts, Head-pieces, Pioniers Tools, Powder, Flasks,</hi> &amp;c. <hi>whereof an account is not yet taken.</hi> Nath: Boyſh.</p>
+         </div>
+         <div type="enclosed_list">
+            <list>
+               <head>A list of the Ordnance taken in <hi>Limerick. 30 October, 1651.</hi>
+               </head>
+               <item>
+                  <hi>Braſs Guns.</hi>
+               </item>
+               <item>Demy Cannon 2</item>
+               <item>Demy Culverin 1</item>
+               <item>Saker, 1</item>
+               <item>Faulknet 1</item>
+               <item>Small Drake 1</item>
+               <item>
+                  <hi>Iron Ornance.</hi>
+               </item>
+               <item>Culverin 1</item>
+               <item>Saker 2</item>
+               <item>Menion 7</item>
+               <item>Falkon 2</item>
+               <item>Falkenet 3</item>
+            </list>
+         </div>
+         <div type="text">
+            <pb n="24" facs="tcp:115016:13"/>
+            <head>Friday the 28<hi rend="sup">th</hi> of <hi>Novem.</hi> 1651.</head>
+            <opener>Ordered by the Parlliament,</opener>
+            <p>THat the Miniſters in the ſeveral Congregations within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the late Lines of Communication and weekly Bills of Mortality, Do on the next Lords-day come Seven-night, render ſolemn Thanks to Almighty God for his great and ſeaſonable Mercy to this Com<g ref="char:EOLhyphen"/>monwealth, in the delivering up into the hands of the Parliament Forces in <hi>Ireland,</hi> under the Command of the Deputy-General, the ſtrong and Populous City of <hi>Limerick,</hi> with all the Artillery, Arms and Ammu<g ref="char:EOLhyphen"/>nition therein, upon the Thirtieth of <hi>October,</hi> One thouſand ſix hundred fifty one; and in the taking of the Iſle of <hi>Jerſey</hi> and the Iſle of <hi>Man,</hi> with all the Caſtles and Forts, Ordnance and Ammunition therein.</p>
+            <p>
+               <hi>Ordered,</hi> That the Lord Major, and Committees of the <hi>Militia's,</hi> be required to take order for notice of this Order to be given.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
